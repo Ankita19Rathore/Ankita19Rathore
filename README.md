@@ -1,15 +1,24 @@
 ## 💫 About Me
 
-I'm a focused and disciplined Information Technology student with a strong interest in WordPress development, backend systems, and problem solving. I enjoy understanding how applications work internally and building clean, practical solutions for real world use cases.
+I am an Information Technology student with a strong interest in WordPress development and backend systems. I enjoy understanding how applications work internally and building clean, practical solutions for real-world problems.
 
-I have worked on academic and personal projects such as digital health record systems, token management platforms for healthcare, and decentralized image storage applications. These experiences have helped me understand backend workflows, databases, and the importance of structured and maintainable code.
+I have worked on academic and personal projects such as digital health record systems, healthcare token management platforms, and decentralized image storage applications. These projects helped me build a solid understanding of backend workflows, databases, and maintainable code practices.
 
-I believe in consistent effort, learning by doing, and strengthening fundamentals step by step. Currently, I am improving my WordPress and backend skills, documenting projects clearly on GitHub, and building a strong foundation in Data Structures and Algorithms to become industry ready.
-
-Outside of coding, I enjoy simplifying technical concepts, helping peers, and growing through continuous learning.
-
+Currently, I am strengthening my WordPress and backend skills, contributing to open-source projects, and building strong fundamentals in Data Structures and Algorithms to become industry-ready. I enjoy simplifying technical concepts and learning through consistent, hands-on practice.
 
 ---
+
+## 🛠 Open Source Contributions
+
+### 🔹 Query Monitor (WordPress Developer Tool Plugin)
+
+- Contributed to **Query Monitor**, a widely used WordPress debugging and developer tooling plugin.
+- Improved accessibility of toggle buttons by introducing **contextual aria-labels** for screen reader users.
+- Ensured backward compatibility and resolved **PHPCS** and **PHPStan** issues to meet WordPress coding standards.
+- Worked with CI pipelines and static analysis tools to deliver a clean, standards-compliant fix.
+
+🔗 **Pull Request:** https://github.com/johnbillion/query-monitor/pull/1063
+
 
 ## 🌐 Socials
 
