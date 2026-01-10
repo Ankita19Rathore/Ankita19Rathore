@@ -1,4 +1,4 @@
-## 💫 About Me
+# 💫 About Me
 
 I am an Information Technology student with a strong interest in WordPress development and backend systems. I enjoy understanding how applications work internally and building clean, practical solutions for real-world problems.
 
