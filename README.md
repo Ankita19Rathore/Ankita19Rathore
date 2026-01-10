@@ -29,7 +29,7 @@ ____
 - Added defensive checks while preserving existing behavior  
 - Followed WordPress security and coding best practices  
 
-🔗 **Pull Request:** https://github.com/WordPress/health-check
+🔗 **Pull Request:** https://github.com/WordPress/health-check/pull/499
 
 ---
 
