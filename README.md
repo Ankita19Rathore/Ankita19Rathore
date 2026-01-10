@@ -10,16 +10,29 @@ Currently, I am strengthening my WordPress and backend skills, contributing to o
 
 ## 🛠 Open Source Contributions
 
+
 ### 🔹 Query Monitor (WordPress Developer Tool Plugin)
 
-- Contributed to **Query Monitor**, a widely used WordPress debugging and developer tooling plugin.
-- Improved accessibility of toggle buttons by introducing **contextual aria-labels** for screen reader users.
-- Ensured backward compatibility and resolved **PHPCS** and **PHPStan** issues to meet WordPress coding standards.
-- Worked with CI pipelines and static analysis tools to deliver a clean, standards-compliant fix.
+- Contributed to **Query Monitor**, a widely used WordPress debugging and developer tooling plugin  
+- Improved accessibility of toggle buttons using **contextual aria-labels** for screen reader users  
+- Ensured backward compatibility and resolved **PHPCS** and **PHPStan** issues  
+- Worked with CI pipelines and static analysis tools to deliver a standards-compliant fix  
 
 🔗 **Pull Request:** https://github.com/johnbillion/query-monitor/pull/1063
 
+____
+
+### 🔹 Health Check (WordPress Core Diagnostic Plugin)
+
+- Contributed to **Health Check**, an official WordPress diagnostic and troubleshooting plugin  
+- Hardened request handling by sanitizing user-controlled input  
+- Added defensive checks while preserving existing behavior  
+- Followed WordPress security and coding best practices  
+
+🔗 **Pull Request:** https://github.com/WordPress/health-check
+
 ---
+
 
 ## 🌐 Socials
 
