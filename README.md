@@ -33,6 +33,17 @@ ____
 
 ---
 
+### 🔹 Axios (JavaScript HTTP Client – 100k+ ⭐)
+
+- Contributed to Axios, a widely used JavaScript HTTP client library
+- Proposed a defensive improvement to harden timeout configuration handling
+- Improved validation of numeric values to prevent unexpected runtime behavior
+- Followed existing code structure and maintained backward compatibility
+
+🔗 Pull Request: https://github.com/axios/axios/pull/7325
+
+---
+
 ### 🔹 Health Check – Method Safety & PHP Compatibility Improvements (PR3)
 
 - Improved method implementation clarity while maintaining PHP 5.6 compatibility  
