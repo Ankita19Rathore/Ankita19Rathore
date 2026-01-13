@@ -20,7 +20,7 @@ Currently, I am strengthening my WordPress and backend skills, contributing to o
 
 🔗 **Pull Request:** https://github.com/johnbillion/query-monitor/pull/1063
 
-____
+---
 
 ### 🔹 Health Check (WordPress Core Diagnostic Plugin)
 
